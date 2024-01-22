@@ -17,7 +17,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   The TO-DO comment above this one indicates that there is something for
 #   you to do.
 #
@@ -33,7 +33,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #
 #   Notice that TODO's turn blue even inside of comments. This helps you
 #   find them easier when you are looking for what you still need to do.
@@ -57,8 +57,8 @@ print('Hello, World')
 ###############################################################################
 
 ###############################################################################
-#
-# TODO: 3.
+print("Ooorah!")
+# DONE: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want.
 #
@@ -70,13 +70,12 @@ print('Hello, World')
 ###############################################################################
 
 ###############################################################################
-#
-# TODO: 4.
+print(3607+34227)
+# DONE: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you.
 #   You do NOT have to use strings for this, so no quotation marks!
-#   This is a bit of a preview for next week but see if you can figure it out
 #   based on the examples in m1e. (HINT: try this operator *)
 #
 #   TEST your code by re-running this module, then asking someone: What number
@@ -88,7 +87,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) now has a 'U' next to it.
 #
